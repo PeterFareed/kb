@@ -19,7 +19,7 @@ client.on('ready', () => {
   console.log(`im redey`);
 });
 
-client.login('NTQxNTE0NTk4ODU2MTMwNTcw.DzgkjQ.NleM0ZfF4RTSfn3u_NTUmE1MnSw');
+client.login('');
 
 
 
